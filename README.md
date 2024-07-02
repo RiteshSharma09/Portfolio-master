@@ -70,4 +70,4 @@ To learn more about Next.js, take a look at the following resources:
 
 ---
 
-*Inspired from [Glaysonvisgueira's Project](https://github.com/Glaysonvisgueira/glaysonvisgueira_next-js)*
+*Inspired from [Glaysonvisgueira's Project](https://github.com/Glaysonvisgueira/glaysonvisgueira_next-js)*# Portfolio-master
